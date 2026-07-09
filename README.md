@@ -1,6 +1,6 @@
 # MacProvider for Pinokio
 
-MacProvider turns an idle Apple Silicon Mac into a paid MLX provider endpoint for the StreamVC network. This repository is a one-click Pinokio launcher: paste the repo URL into Pinokio, click Install, then click Start.
+MacProvider lets you host open models on idle Apple Silicon and earn USDC. This repository is a one-click Pinokio launcher: paste the repo URL into Pinokio, click Install, then click Start.
 
 ## Requirements
 

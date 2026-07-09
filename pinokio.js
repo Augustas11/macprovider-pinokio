@@ -33,7 +33,7 @@ function isRunning(info, kernel, script) {
 module.exports = {
   version: "1.0",
   title: "MacProvider",
-  description: "Turn an Apple Silicon Mac into a paid MLX provider endpoint for StreamVC.",
+  description: "Host open models on idle Apple Silicon and earn USDC.",
   icon: "icon.svg",
   menu: async (kernel, info) => {
     const platform = (kernel && kernel.platform) || os.platform()
