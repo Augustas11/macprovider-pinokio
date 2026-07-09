@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="MacProvider">
+  <rect width="256" height="256" rx="56" fill="#0b0f14"/>
+  <path d="M58 172V84h25l45 54 45-54h25v88h-26v-50l-36 43h-16l-36-43v50H58Z" fill="#f7f7f2"/>
+  <path d="M54 196h148" stroke="#38d6a6" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="204" cy="196" r="15" fill="#38d6a6"/>
+</svg>
